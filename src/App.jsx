@@ -111,16 +111,16 @@ function App() {
         <section className="contact section-pad" id="contact">
           <div className="contact-heading"><div className="section-kicker">LET'S CONNECT <span>—</span> CONTACT US</div><h2>Have a project<br/>in <em>mind?</em></h2><p>Tell us what you need. Whether it's a laptop repair, a new software project or a cybersecurity consultation, we'd be happy to hear from you.</p>
             <div className="contact-details">
-              <div><Mail size={18}/><span><small>EMAIL</small><b>your-email@example.com</b></span></div>
-              <div><Phone size={18}/><span><small>PHONE</small><b>+91 XXXXX XXXXX</b></span></div>
+              <div><Mail size={18}/><span><small>EMAIL</small><b>naps.enterprises@outlook.com</b></span></div>
+              <div><Phone size={18}/><span><small>PHONE</small><b>+91 907676 8686</b></span></div>
               <div><MapPin size={18}/><span><small>LOCATION</small><b>Mumbai, Maharashtra, India</b></span></div>
             </div>
             <div className="social-block">
               <small>FOLLOW NAPS ENTERPRISE</small>
               <div className="social-links">
-                <a href="https://www.facebook.com/" target="_blank" rel="noreferrer" aria-label="Facebook"><Facebook size={17}/></a>
-                <a href="https://www.instagram.com/" target="_blank" rel="noreferrer" aria-label="Instagram"><Instagram size={17}/></a>
-                <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer" aria-label="LinkedIn"><Linkedin size={17}/></a>
+                <a href="https://www.facebook.com/share/18j6er4Jbo/" target="_blank" rel="noreferrer" aria-label="Facebook"><Facebook size={17}/></a>
+                <a href="https://www.instagram.com/napsenterprise?vrfl=bmx5bGUzazRlbHFu" target="_blank" rel="noreferrer" aria-label="Instagram"><Instagram size={17}/></a>
+                <a href="https://www.linkedin.com/in/naps-enterprise-88b0b024a/" target="_blank" rel="noreferrer" aria-label="LinkedIn"><Linkedin size={17}/></a>
               </div>
             </div>
           </div>
@@ -140,9 +140,9 @@ function App() {
         <div className="footer-mid">
           <p>Technology. Trust. Transformation.</p>
           <div className="footer-socials">
-            <a href="https://www.facebook.com/" target="_blank" rel="noreferrer" aria-label="Facebook"><Facebook size={16}/></a>
-            <a href="https://www.instagram.com/" target="_blank" rel="noreferrer" aria-label="Instagram"><Instagram size={16}/></a>
-            <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer" aria-label="LinkedIn"><Linkedin size={16}/></a>
+            <a href="https://www.facebook.com/share/18j6er4Jbo/" target="_blank" rel="noreferrer" aria-label="Facebook"><Facebook size={16}/></a>
+            <a href="https://www.instagram.com/napsenterprise?vrfl=bmx5bGUzazRlbHFu" target="_blank" rel="noreferrer" aria-label="Instagram"><Instagram size={16}/></a>
+            <a href="https://www.linkedin.com/in/naps-enterprise-88b0b024a/" target="_blank" rel="noreferrer" aria-label="LinkedIn"><Linkedin size={16}/></a>
           </div>
         </div>
         <div className="footer-bottom"><span>© {new Date().getFullYear()} Naps Enterprise. All rights reserved.</span><div><a href="#home">Back to top <ChevronRight size={14}/></a></div></div>
