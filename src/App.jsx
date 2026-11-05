@@ -130,7 +130,7 @@ function App() {
             <div className="google-form-wrap">
               <iframe title="Naps Enterprise contact form" src={googleFormUrl} width="100%" height="620" frameBorder="0" marginHeight="0" marginWidth="0">Loading…</iframe>
             </div>
-            <p className="form-help">If the form does not load, <a href={googleFormUrl} target="_blank" rel="noreferrer">open Google Forms</a> or contact us directly.</p>
+            <p className="form-help">If the form does not load, <a href="https://docs.google.com/forms/" target="_blank" rel="noreferrer">open Google Forms</a> or contact us directly.</p>
           </div>
         </section>
       </main>
