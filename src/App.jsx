@@ -24,7 +24,7 @@ const highlights = [
 function App() {
   const [menuOpen, setMenuOpen] = useState(false)
   const closeMenu = () => setMenuOpen(false)
-  const googleFormUrl = 'https://docs.google.com/forms/d/e/REPLACE_WITH_YOUR_FORM_ID/viewform?embedded=true'
+  const googleFormUrl = 'https://docs.google.com/forms/d/e/1FAIpQLScX3tcEZqda2yi83ghOh0CbedIaAissE7EnoBU8zd1wJz3U4A/viewform?embedded=true'
 
   return (
     <div>
