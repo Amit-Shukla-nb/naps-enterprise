@@ -147,7 +147,7 @@ function App() {
           aria-label="Naps Enterprise home"
         >
           <div className="brand-mark">
-            <img src="/logo.png" alt="Naps Enterprise" className="brand-logo" />
+            <img src="/logo.jpeg" alt="Naps Enterprise" className="brand-logo" />
           </div>
           <span className="brand-name">
             NAPS <b>ENTERPRISE</b>

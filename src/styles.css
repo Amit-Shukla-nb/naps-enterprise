@@ -53,8 +53,26 @@ button {
   place-items: center;
   font: 800 22px Manrope;
 }
-.brand-mark span {
-  color: #69a0ff;
+ .brand-mark {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.brand-logo {
+  width: 155px;
+  height: 48px;
+  object-fit: contain;
+  object-position: left center;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .brand-logo {
+    width: 125px;
+    height: 42px;
+  }
 }
 .brand-name {
   font: 800 14px Manrope;
