@@ -528,7 +528,7 @@ function App() {
       <footer className="footer">
         <a className="brand footer-brand" href="#home">
           <span className="brand-mark">
-            N<span>.</span>
+           <img src="/logo.png" alt="Naps Enterprise" className="brand-logo" />
           </span>
           <span className="brand-name">
             NAPS <b>ENTERPRISE</b>
