@@ -66,6 +66,7 @@ button {
   object-fit: contain;
   object-position: left center;
   display: block;
+  margin-right: 20px;
 }
 
 @media (max-width: 768px) {
